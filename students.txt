@@ -1,0 +1,11 @@
+VU001 Trevor_Baale 85.5
+VU002 Glenn_Enyang 92
+VU003 Alice_Mukasa 78
+VU004 Harl_Jordan 65.5
+VU005 Mary_Jane 88
+VU006 Peter_Parker 95
+VU007 Bruce_Wayne 70
+VU008 Clark_Kent 82.5
+VU009 Diana_Prince 90
+VU010 Barry_Allen 74.5
+VU011 New_Student 99.9
